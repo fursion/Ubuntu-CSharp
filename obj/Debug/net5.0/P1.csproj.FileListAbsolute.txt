@@ -1,0 +1,16 @@
+/home/fursion/development/CSharp/P1/bin/Debug/net5.0/P1
+/home/fursion/development/CSharp/P1/bin/Debug/net5.0/P1.deps.json
+/home/fursion/development/CSharp/P1/bin/Debug/net5.0/P1.runtimeconfig.json
+/home/fursion/development/CSharp/P1/bin/Debug/net5.0/P1.runtimeconfig.dev.json
+/home/fursion/development/CSharp/P1/bin/Debug/net5.0/P1.dll
+/home/fursion/development/CSharp/P1/bin/Debug/net5.0/ref/P1.dll
+/home/fursion/development/CSharp/P1/bin/Debug/net5.0/P1.pdb
+/home/fursion/development/CSharp/P1/obj/Debug/net5.0/P1.csproj.AssemblyReference.cache
+/home/fursion/development/CSharp/P1/obj/Debug/net5.0/P1.GeneratedMSBuildEditorConfig.editorconfig
+/home/fursion/development/CSharp/P1/obj/Debug/net5.0/P1.AssemblyInfoInputs.cache
+/home/fursion/development/CSharp/P1/obj/Debug/net5.0/P1.AssemblyInfo.cs
+/home/fursion/development/CSharp/P1/obj/Debug/net5.0/P1.csproj.CoreCompileInputs.cache
+/home/fursion/development/CSharp/P1/obj/Debug/net5.0/P1.dll
+/home/fursion/development/CSharp/P1/obj/Debug/net5.0/ref/P1.dll
+/home/fursion/development/CSharp/P1/obj/Debug/net5.0/P1.pdb
+/home/fursion/development/CSharp/P1/obj/Debug/net5.0/P1.genruntimeconfig.cache
